@@ -5,6 +5,7 @@
 **Java/Swing을 이용해 제작한 미니 동물의 숲 게임**
 - **개발 기간: 2021/01/11 ~ 2021/01/18**
 - **개발 환경: IntelliJ IDEA Communicate Edition**
+- **실행 영상: https://youtu.be/V3fBOO8czgM**
 <br>
 
 | 캐릭터 | 특성 | 캐릭터 | 특성 |
