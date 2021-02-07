@@ -3,7 +3,7 @@
 <img src="../master/gameImg/main.PNG" width="50%" height="50%">
 
 **Java/Swing을 이용해 제작한 미니 동물의 숲 게임**
-- **프로젝트 기간: 2021/01/11 ~ 2021/01/18**
+- **개발 기간: 2021/01/11 ~ 2021/01/18**
 - **개발 환경: IntelliJ IDEA Communicate Edition**
 <br>
 
